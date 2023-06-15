@@ -1,0 +1,1 @@
+Secured spring boot application
